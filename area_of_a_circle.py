@@ -1,5 +1,5 @@
 
-# This program computes the area of a circle
+# This program computes the area of a circle for a given circle
 
 
 def compute_area_of_circle(radius):
